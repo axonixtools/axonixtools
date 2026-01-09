@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**axonixtools/axonixtools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Welcome to Axonix Tools
+### 🌐 [Visit Axonix Tools](https://axonixtools.com)
+**Axonix** is a premium, privacy-focused utility suite built for developers, creators, and professionals. Our mission is to provide 100+ high-quality tools completely free of charge.
+### ✨ What we're building
+- 🧠 **AI Image Generation**: High-res visuals powered by Flux Schnell.
+- 🔒 **Privacy Utilities**: Client-side password generators and security tools.
+- 🛠️ **Developer Suite**: JSON formatters, signature generators, and more.
+- ⚡ **Zero Friction**: No sign-ups, no ads, no data tracking.
+### 🚀 Join our Journey
+- 🏗️ **Currently:** Preparing for our Product Hunt launch!
+- 🐦 **Follow us on X:** [@axonixtools](https://x.com/axonixtools)
+- 💼 **LinkedIn:** [Axonix Tools](https://linkedin.com/in/axonix-tools)
+---
+*Built with ❤️ for the community.*
