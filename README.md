@@ -28,7 +28,7 @@ We prioritize **User Privacy** above all else. Unlike many other tool sites, Axo
 
 ## 🛠️ Tool Catalog
 
-We currently offer **39+ tools** across various categories. Here are some of our most popular utilities:
+We currently offer **90+ tools** across various categories. Here are some of our most popular utilities:
 
 ### 👨‍💻 Developer Tools
 *   **TypeGen:** Instantly convert JSON to TypeScript interfaces, Zod schemas, or Go structs.
